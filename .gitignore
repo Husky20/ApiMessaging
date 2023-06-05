@@ -1,0 +1,9 @@
+.idea
+var
+vendor
+.php_cs.cache
+.phpunit.result.cache
+/app/phpunit.xml.dist
+/.docker/
+/build-env.ps1
+/build-env.sh
