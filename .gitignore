@@ -7,3 +7,4 @@ vendor
 /.docker/
 /build-env.ps1
 /build-env.sh
+/app/public/
